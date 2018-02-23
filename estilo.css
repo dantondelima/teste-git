@@ -1,0 +1,10 @@
+body{
+	background-color: blue;
+}
+
+li{
+	border:1px solid black;
+	border-radius: 5px;
+	font-family: Verdana;
+	font-size: 20px;
+}
